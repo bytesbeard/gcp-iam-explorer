@@ -2,6 +2,8 @@
 
 An interactive, visual playground for understanding Google Cloud Identity and Access Management (IAM). This tool helps DevOps engineers and architects visualize how policies flow through the GCP resource hierarchy, from Organizations down to individual Service Accounts.
 
+![Screenshot](visualizer-screenshot.png)
+
 ## 🚀 Overview
 
 GCP IAM is complex due to inheritance, effective permissions, and specialized policy types (Deny, Conditions). This explorer simplifies these concepts through interactive scenarios and a real-time visualization canvas.
