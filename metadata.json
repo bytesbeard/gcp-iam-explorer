@@ -1,0 +1,5 @@
+{
+  "name": "GCP IAM Explorer",
+  "description": "An interactive tool to visualize and understand Google Cloud IAM policies, hierarchies, and inheritance through guided scenarios.",
+  "requestFramePermissions": []
+}
